@@ -1,15 +1,13 @@
 # Background
 
-The goal of this project is to convert a simple Java stopwatch to an
-Android application.  The original java code can be found
-[here](https://github.com/concurrency-cs-luc-edu/simplestopwatch-java).
+The goal of this project is to create a simple Java stopwatch to an
+Android application.  
 
 # Learning Objectives
 
 ## Modeling
 
 * Modeling state-dependent behavior with state machine diagrams
-  (see also [here](/loyolachicagocs_comp313/stopwatch-android-java/src/default/doc))
 * Distinguishing between view states and (behavioral) model states
 
 ## Semantics
