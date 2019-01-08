@@ -1,4 +1,4 @@
-# Background
+# Overview
 
 The goal of this project is to create a simple Java stopwatch to an
 Android application.  
